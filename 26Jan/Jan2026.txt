@@ -1,4 +1,6 @@
 
+22122025:
+	must talktive -> QA frequently for work
 
 16122025:
 	first MR
