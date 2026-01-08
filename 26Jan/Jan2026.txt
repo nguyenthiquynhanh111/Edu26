@@ -1,4 +1,7 @@
 
+08012026:
+	first depploy, issues prod version check
+
 01012026:
 	happy new year
 
